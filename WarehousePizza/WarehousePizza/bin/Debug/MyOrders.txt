@@ -1,0 +1,18 @@
+The order ID: 1
+The product name: Apple iPod Touch (32GB) - Blue
+The product price: $146
+The product description: 4-Inch Retina display, Your favorite music, gaming, and AR apps in your pocket, A10 Fusion chip for up to 2x faster performance, Up to 3x faster graphics
+The customer name: Mary Smith
+
+The order ID: 2
+The product name: Apple iPod Touch (32GB) - Blue
+The product price: $146
+The product description: 4-Inch Retina display, Your favorite music, gaming, and AR apps in your pocket, A10 Fusion chip for up to 2x faster performance, Up to 3x faster graphics
+The customer name: Mike Smith
+
+The order ID: 3
+The product name: Laptop X5
+The product price: $650
+The product description: A 10- to 13-inch laptop is best for people frequently on the move.
+The customer name: Peter
+
